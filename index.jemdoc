@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Zezheng Song
+
+~~~
+{}{img_left}{photo/profile.jpg}{alt text}{326px}{245px}
+[https://zezheng-song.github.io Zezheng Song] \n 
+
+Email: /zsong001/ \AT\ umd \DOT\ edu
+
+\[[https://scholar.google.com/citations?user=pIdxSskAAAAJ&hl=en Google Scholar]\]\[[C.pdf Curriculem Vitae]\] \n
+~~~
+
+
+
+== About me
+I am a fourth-year Ph.D. student in [https://amsc.umd.edu/ Applied Mathematics & Statistics, and Scientific Computation (AMSC) Program] at the University of Maryland, College Park.
+
+Before joining UMD, I graduated from [https://www.utexas.edu/ University of Texas at Austin] with a bachelor's degree in Mathematical Sciences.
+
+
+== Research
+My research interests include 
+- Scientific Machine Learning
+- High Performance Computing
+- Mathematical Data Science
+
+
+== Visitors
+~~~
+{}{raw}
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
+~~~
+
+== News
+- \[11-22-2022] Advanced to doctoral candidacy.
+- \[06-27-2022\] Started 10-week internship at Lawrence Berkeley National Laboratory
