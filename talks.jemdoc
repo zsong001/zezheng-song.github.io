@@ -1,4 +1,6 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
-== Projects 
+== Talks
 
-- [pubs/ZZ_AMSC664_Presentation.pdf AMSC 663-664 Project] \[[Code]\] \n
+- [presentations/committor_FEX_presentation.pdf A Finite Expression Method (FEX) for Solving High-Dimensional Committor Problems], CBMS Conference: Deep Learning and Numerical PDEs, Baltimore, June, 2023.
+- Solving High-Dimensional Committor Functions with Finite Expression Method (FEX), RIT on Machine Learning for Rare Events, University of Maryland, College Park, February 2023.
+- Acceleration of Kernel Methods with Nystrom Approximation, National Science Foundation, Mathematical Sciences Summer Research Symposium, August, 2022.
