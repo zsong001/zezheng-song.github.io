@@ -5,12 +5,12 @@
 
 
 == AI for PDEs
-- Z. Song, J. Yuan, H. Yang*. FMint: Bridging Human Designed and Data Pretrained Models for Differential Equation Foundation Model. [https://arxiv.org/abs/2404.14688 \[pdf\]]
+- Z. Song^, J. Yuan^, H. Yang*. FMint: Bridging Human Designed and Data Pretrained Models for Differential Equation Foundation Model. [https://arxiv.org/abs/2404.14688 \[pdf\]]
 - Z. Song, C. Wang, H. Yang*. Finite Expression Method to Learn Dynamics on Complex Networks. Submitted. [https://arxiv.org/abs/2401.03092 \[pdf\]]
 - Z. Song, M. Cameron, H. Yang*. A Finite Expression Method for Solving High-Dimensional Committor Problems. Submitted. [https://arxiv.org/abs/2306.12268 \[pdf\]]
 
 == AI for Science
-- J. Song, Z. Song, P. Ren, B. Erichson, M. Mahoney, X. Li. Learning Complex Systems from Sparse Measurements via Gated Neural ODEs and Swin Transformer. In preparation.
+- J. Song^, Z. Song^, P. Ren, B. Erichson, M. Mahoney, X. Li. Learning Complex Systems from Sparse Measurements via Gated Neural ODEs and Swin Transformer. In preparation.
 
 == Mathematical Biology
 - G. Hampton, R. Neff, Z. Song, M. Bouhrara, R. Balan, R. Spencer*. Myelin Mapping in the Human Brain Using an Empirical Extension of the Ridge Regression Theorem. Submitted.
