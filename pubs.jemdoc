@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{pubs.html}, nofooter
-== Publications
+== Selected Publications
 
 \* denotes equal contribution. Full list of papers available on [https://scholar.google.com/citations?user=pIdxSskAAAAJ&hl=en&oi=ao Google Scholar] page.
 
@@ -13,6 +13,12 @@
 - *A Fast Algorithm for the Finite Expression Method in Learning Dynamics on Complex Networks*, \n
     Z. Song, C. Wang, H. Yang.
     [https://arxiv.org/abs/2401.03092 \[pdf\]] \[{{<font color="PaleVioletRed">ML + physics</font>}}\]
+
+- *Forecasting High-dimensional Spatio-Temporal Systems from Sparse Measurements*, \n
+    J. Song\*, Z. Song\*, P. Ren, N. Erichson, M. Mahoney, X. Li. Submitted.
+     \[{{<font color="PaleVioletRed">ML + Fluid Dynamics</font>}}\]
+
+
 
 - *Myelin Mapping in the Human Brain Using an Empirical Extension of the Ridge Regression Theorem*, \n
     G. Hampton, R. Neff, Z. Song, M. Bouhrara, R. Balan, R. Spencer. Submitted.
