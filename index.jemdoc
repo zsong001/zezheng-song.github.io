@@ -24,13 +24,14 @@ Before joining UMD, I graduated from [https://www.utexas.edu/ University of Texa
 
 == Research
 My research interests include 
-- Scientific Machine Learning
+- Scientific Machine Learning (Foundation Model, Reinforcement Learning)
 - High Performance Computing
 - Mathematical Data Science
 - Dynamical Systems
 - Numerical Linear Algebra
 
 == News
+- \[10-02-2024\] Our paper on */Multi-Modal Foundation Model*/ for fast simulation of dynamical systems is online [https://arxiv.org/abs/2404.14688 "FMint: Bridging Human Designed and Data Pretrained Models for Differential Equation Foundation Model"].
 - \[08-23-2024\] Our survey paper [https://arxiv.org/pdf/2408.12171 "Recent Advances on Machine Learning for
 Computational Fluid Dynamics: A Survey"] is on arXiv [https://arxiv.org/pdf/2408.12171 \[pdf\]].
 - {{<font color=red size=+0.5><b>}}\[08-06-2024\]{{</b></font>}} Our work [https://arxiv.org/abs/2306.12268 "A Finite Expression Method for Solving High-Dimensional Committor Problems"] has been
