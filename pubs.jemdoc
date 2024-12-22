@@ -14,10 +14,6 @@
     Z. Song, C. Wang, H. Yang.
     [https://arxiv.org/abs/2401.03092 \[pdf\]] \[{{<font color="PaleVioletRed">ML + physics</font>}}\]
 
-- *Forecasting High-dimensional Spatio-Temporal Systems from Sparse Measurements*, \n
-    J. Song\*, Z. Song\*, P. Ren, N. Erichson, M. Mahoney, X. Li. Submitted.
-     \[{{<font color="PaleVioletRed">ML + Fluid Dynamics</font>}}\]
-
 
 
 - *Myelin Mapping in the Human Brain Using an Empirical Extension of the Ridge Regression Theorem*, \n
@@ -33,4 +29,6 @@
     [https://arxiv.org/abs/2306.12268v2 \[pdf\]] [https://github.com/zzsong1023/FEX_committor \[code\]] \[{{<font color="PaleVioletRed">ML + PDEs + Chemical Physics</font>}}\]
 
 
-
+- *Forecasting High-dimensional Spatio-Temporal Systems from Sparse Measurements*, \n
+    J. Song\*, Z. Song\*, P. Ren, N. Erichson, M. Mahoney, X. Li. Machine Learning: Science and Technology. [https://iopscience.iop.org/article/10.1088/2632-2153/ad9883 \[pdf\]]
+     \[{{<font color="PaleVioletRed">ML + Fluid Dynamics</font>}}\]

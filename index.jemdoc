@@ -2,7 +2,7 @@
 == Zezheng Song
 
 ~~~
-{}{img_left}{photo/profile.jpeg}{alt text}{326px}{326px}
+# {}{img_left}{photo/profile.jpeg}{alt text}{326px}{326px}
 [https://zzsong1023.github.io Zezheng Song] \n 
 
 Email: /zsong001/ \AT\ umd \DOT\ edu
@@ -31,6 +31,8 @@ My research interests include
 - Numerical Linear Algebra
 
 == News
+- {{<font color=red size=+0.5><b>}}\[12-18-2024\]{{</b></font>}} Our work [https://iopscience.iop.org/article/10.1088/2632-2153/ad9883 "Forecasting High-dimensional Spatio-Temporal Systems from Sparse Measurements"] is
+published on */Machine Learning: Science and Technology/*.[https://iopscience.iop.org/article/10.1088/2632-2153/ad9883 \[pdf\]] Cheers!
 - \[10-02-2024\] Our paper on */Multi-Modal Foundation Model*/ for fast simulation of dynamical systems is online [https://arxiv.org/abs/2404.14688 "FMint: Bridging Human Designed and Data Pretrained Models for Differential Equation Foundation Model"].
 - \[08-23-2024\] Our survey paper [https://arxiv.org/pdf/2408.12171 "Recent Advances on Machine Learning for
 Computational Fluid Dynamics: A Survey"] is on arXiv [https://arxiv.org/pdf/2408.12171 \[pdf\]].
